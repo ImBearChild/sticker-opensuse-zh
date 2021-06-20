@@ -6,11 +6,11 @@
 
 ## 预览
 
-![Icon](素材/Icon-distribution-small.png)
+![Icon](素材/Icon-distribution-small.png) ![Icon](普通贴纸系列/openSUSE用户-表示头大.webp) ![Icon](社区推荐系列/推荐食用-openSUSHI.webp)
 
-![Icon](普通贴纸系列/openSUSE用户-表示头大.webp)
+## 鸣谢
 
-![Icon](社区推荐系列/推荐食用-openSUSHI.webp)
+感谢虚拟油管主 [赛小盐 Cyan](https://www.youtube.com/channel/UC9wbdkwvYVSgKtOZ3Oov98g) 允许我们利用其形象进行二次创作。
 
 ## 版权申明
 
@@ -20,4 +20,4 @@
 
 2. 贴纸的创作中不可避免的使用了来源于网络与新闻的图片，该部分的版权为其所有者拥有。
 
-3. 部分贴纸使用了其他软件或项目的图标，图表部分的版权为其所有者拥有。
+3. 部分贴纸使用了其他软件或项目的图标，图标部分的版权为其所有者拥有。
